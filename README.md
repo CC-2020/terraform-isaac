@@ -186,5 +186,4 @@ A continuación, se detallan los pasos que se han seguido para la realización d
   $ terraform apply
   ```
 
-- Podemos comprobar si todo ha salido correctamente accediendo a la IP pública de la instancia que se ha creado para verificar 
-  tanto la instalación de Apache.
+- Podemos comprobar si todo ha salido correctamente accediendo a la IP pública de la instancia que se ha creado para verificar la instalación de Apache.
